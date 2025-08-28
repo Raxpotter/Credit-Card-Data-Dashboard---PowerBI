@@ -4,14 +4,14 @@ I built this project by following the concepts taught in Rishabh Mishra’s Powe
 
 Features : 
 
-Week-over-week revenue analysis
-Customer segmentation by age and income
-Activation rate, delinquency rate, and transaction insights
-Live connection with PostgreSQL
+Week-over-week revenue analysis.
+Customer segmentation by age and income.
+Activation rate, delinquency rate, and transaction insights.
+Live connection with PostgreSQL.
 
 How to Use : 
 
-Download the .pbix file from this repo
-Open it in Power BI Desktop
-Connect to your PostgreSQL database or use sample data
-Refresh to view updated results
+Download the .pbix file from this repo.
+Open it in Power BI Desktop.
+Connect to your PostgreSQL database or use sample data.
+Refresh to view updated results.
